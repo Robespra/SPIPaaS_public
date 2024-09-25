@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="938px" height="240px" viewBox="0 0 938 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Packages - Monitoring</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ALL-/-Header-notifications-display-DASHBOARD" transform="translate(-386.000000, -244.000000)">
+            <g id="Group" transform="translate(-30.000000, -60.000000)">
+                <g id="Group" transform="translate(414.000000, 269.598784)">
+                    <g id="Monitoring" transform="translate(1.918620, -12.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="1" y="46.41309" width="936.28656" height="239.8275" rx="3.83724"></rect>
+                        <g id="monitoring-tile---not-deployed-yet" transform="translate(755.976970, 96.500414)">
+                            <text id="Not-deployed-yet" font-family="OpenSans, Open Sans" font-size="11.511721" font-weight="normal" letter-spacing="0.206620658" fill="#031739">
+                                <tspan x="9.5931" y="143.42547">Not deployed yet</tspan>
+                            </text>
+                            <circle id="Oval" stroke="#B7CDCD" stroke-width="2.87793" cx="55.160325" cy="55.9164314" r="55.160325"></circle>
+                            <text id="4" font-family="OpenSans-Semibold, Open Sans" font-size="30.69792" font-weight="500" letter-spacing="0.55098842" fill="#B7CDCD">
+                                <tspan x="45.08757" y="67.3319564">4</tspan>
+                            </text>
+                        </g>
+                        <g id="monitoring-tile---error" transform="translate(539.172910, 96.500414)">
+                            <text id="Erroneous-runs" font-family="OpenSans, Open Sans" font-size="11.511721" font-weight="normal" letter-spacing="0.206620658" fill="#031739">
+                                <tspan x="10.55241" y="143.42547">Erroneous runs</tspan>
+                            </text>
+                            <circle id="Oval" stroke-opacity="0.193973995" stroke="#F9DA1C" stroke-width="28.7793" cx="55.160325" cy="55.9164314" r="55.160325"></circle>
+                            <circle id="Oval" stroke="#F9DA1C" stroke-width="2.27033576" fill="#FFFFFF" cx="55.160325" cy="55.9164314" r="55.160325"></circle>
+                            <text id="3" font-family="OpenSans-Semibold, Open Sans" font-size="30.69792" font-weight="500" letter-spacing="0.55098842" fill="#031739">
+                                <tspan x="46.04688" y="68.2912664">3</tspan>
+                            </text>
+                        </g>
+                        <g id="monitoring-tile---success" transform="translate(322.368850, 96.500414)">
+                            <text id="Successful-runs" font-family="OpenSans, Open Sans" font-size="11.511721" font-weight="normal" letter-spacing="0.206620658" fill="#031739">
+                                <tspan x="12.47103" y="143.42547">Successful runs</tspan>
+                            </text>
+                            <text id="51" font-family="OpenSans-Semibold, Open Sans" font-size="30.69792" font-weight="500" letter-spacing="0.55098842" fill="#031739">
+                                <tspan x="37.41309" y="68.2912664">51</tspan>
+                            </text>
+                            <circle id="Oval" stroke="#58DECC" stroke-width="2.87793" cx="55.160325" cy="55.9164314" r="55.160325"></circle>
+                        </g>
+                        <g id="monitoring-tile-total" transform="translate(14.430340, 99.378344)">
+                            <text id="Number-of-integratio" font-family="OpenSans, Open Sans" font-size="15.34896" font-weight="normal" letter-spacing="0.27549421" fill="#031739">
+                                <tspan x="0" y="16">Number of integration scenarios</tspan>
+                            </text>
+                            <text id="58" font-family="OpenSans-Semibold, Open Sans" font-size="59.47722" font-weight="500" letter-spacing="1.06753989" fill="#031739">
+                                <tspan x="0" y="85.10482">58</tspan>
+                            </text>
+                            <text id="On-{currentDate}-{cu" font-family="OpenSans, Open Sans" font-size="11.511721" font-weight="normal" letter-spacing="0.206620658" fill="#B7CDCD">
+                                <tspan x="0" y="140.54754">On {currentDate} {currentTime}</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
